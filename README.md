@@ -3,4 +3,4 @@ A circuit synthesizer that tries to approximate CCNOT. This synthesizer uses at 
 
 
 ## Initial Approach: Brute Force
-Try a variety of combinations of gate sets. We know we can use at 
+Try a variety of combinations of gate sets. We know we can use at most four 2-qubit gates, and any number of 1 qubit gates.
